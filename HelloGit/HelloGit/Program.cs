@@ -10,6 +10,7 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
+            string a = "";
         }
     }
 }
